@@ -1,4 +1,20 @@
-### Hi there 👋
+<img align="right" src="https://media.giphy.com/media/3o72FfGORpzRczqz7y/giphy.gif" width="300" >
+
+### Hi there, I'm Mohamed El-Naggar 👋
+<p> 🔭 I’m currently working as iOS Software Enginner at <a href="https://www.banquemisr.com/">Banque Misr</a></p>
+
+📫 How to reach me: 
+
+[![LINKEDIN](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/naggar9/)
+[![GMAIL](https://img.shields.io/static/v1?color=EA4335&label=gmail&logo=gmail&logoColor=white&style=for-the-badge&message=Connect)](mailto:iNagggar@gmail.com)
+[![FACEBOOK](https://img.shields.io/static/v1?color=3b5998&label=Facebook&logo=facebook&logoColor=white&style=for-the-badge&message=Add)](http://facebook.com/M7medElnaggar/)
+
+
+💬 Ask me about ...
+
+- Bachelor’s degree in Computer Science.
+- Enjoying being challenged and engaging with the projects that requires me to work outside my comfort and knowledge 
+- Love to code using <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" height="20" align="center">
 
 <!--
 **Mo7amedElnaggar/Mo7amedElnaggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

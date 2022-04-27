@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/3o72FfGORpzRczqz7y/giphy.gif" width="45%" >
 
 ### Hi there, I'm Mohamed El-Naggar 👋
-<p> 🔭 I’m currently working as iOS Software Enginner at <a href="https://www.banquemisr.com/">Banque Misr</a></p>
+<p> 🔭 I’m currently working as iOS Software Engineer at <a href="https://www.banquemisr.com/">Banque Misr</a></p>
 
 📫 How to reach me: 
 
